@@ -75,8 +75,7 @@
 ---
 
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[website]: https://adipoluri.com
+[twitter]: https://twitter.com/adipoluri
+[instagram]: https://instagram.com/adi.poluri
+[linkedin]: https://linkedin.com/in/adipoluri
