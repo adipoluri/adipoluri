@@ -50,11 +50,15 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adipoluri)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adipoluri&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
  
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adipoluri&hide=tcl)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>:zap: Most Used Languages</summary>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adipoluri&hide=tcl)](https://github.com/anuraghazra/github-readme-stats)
+  
+</details>
 ---
 
 ### 📕 Latest Blog Posts
