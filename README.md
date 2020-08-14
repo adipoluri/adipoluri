@@ -56,12 +56,10 @@
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-  
+  <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adipoluri&hide=tcl)](https://github.com/anuraghazra/github-readme-stats)
   
 </details>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adipoluri&hide=tcl)](https://github.com/anuraghazra/github-readme-stats)
   
 ---
 
