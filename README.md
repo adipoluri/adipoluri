@@ -77,4 +77,4 @@
 [website]: https://adipoluri.com
 [twitter]: https://twitter.com/adipoluri
 [instagram]: https://instagram.com/adi.poluri
-[linkedin]: https://linkedin.com/in/adipoluri
+[linkedin]: https://www.linkedin.com/in/adityapoluri/
