@@ -38,18 +38,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <br />
-
 ---
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://adipoluri.com/blogs)
-
----
-
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
@@ -64,6 +53,16 @@
   <img align="left" alt="adipoluri's Github Stats" src="https://github-readme-stats.adipoluri.vercel.app/api?username=adipoluri&show_icons=true&hide_border=true" />
 
 </details>
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://adipoluri.com/blogs)
+
+---
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr
