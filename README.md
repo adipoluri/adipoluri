@@ -1,6 +1,6 @@
 ### Hi there, I'm Adi!👋
 
-## I'm a Student, Developer, and Teacher!
+## I'm a Student, Developer, and AI Enthusiast!
 
 - 🔭 I’m currently working on a 2D unity game called EscapeFromPixelov!
 - 🌱 I’m currently learning everything 🤣 (There's too much too learn)
