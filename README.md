@@ -2,10 +2,9 @@
 
 ## I'm an avid Programmer, Engineer, and Student!
 
-- 🔭 I’m currently working on a 2D unity game called EscapeFromPixelov!
-- 🌱 I’m currently learning everything 🤣 (There's too much too learn)
+- 🔭 I’m currently working on a 2D unity game called Pixelov!
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to design and build robots!
 
 ### Connect with me:
