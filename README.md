@@ -1,6 +1,6 @@
 ### Hi there, I'm Adi!👋
 
-## I'm an avid Programmer, Engineer, and Student!
+## I'm a Programmer, Engineer, and Student!
 
 - 🔭 I’m currently working on a 2D unity game called Pixelov!
 - 👯 I’m looking to collaborate with other developers
