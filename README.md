@@ -34,7 +34,7 @@ me = SoftwareEngineer()
 me.say_hi()
 me.moreInfo()
 ```
-<h4>
+</h4>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adipoluri&count_private=true&theme=github_dark)
  
   
