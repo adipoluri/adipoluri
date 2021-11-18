@@ -14,17 +14,24 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Adi Poluri"
-        self.role = "Software Engineer"
+        self.role = "Student & Software Engineer"
         self.school = "UBC"
         self.location = "Vancouver"
         self.language_spoken = ["en_US"]
+        self.ask_me_about = ["game-dev", "ai", "computer-vision","flutter-dev"]
         
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting!")
         
+    def moreInfo(self):
+        aboutMe = {
+            "currentFocus" : "Flutter Web App Development and Game Development",
+            "languages" : ["Python", "C++", "C", "Java", "Dart", "PHP"],
+            "tools" : ["Unity", "Unreal Engine 4/5", Android Studio"],
         
 me = SoftwareEngineer()
 me.say_hi()
+me.moreInfo()
 ```
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adipoluri&count_private=true&theme=github_dark)
@@ -39,15 +46,5 @@ me.say_hi()
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adipoluri&repo=redacted&show_icons=true&theme=github_dark&line_height=28" />
 </a>
 
-### Connect with me:
 
 
-
-<br/>
-<br/>
-<br/>
-
-[website]: https://adipoluri.com
-[twitter]: https://twitter.com/adipoluri
-[instagram]: https://instagram.com/adi.poluri
-[linkedin]: https://www.linkedin.com/in/adityapoluri/
