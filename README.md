@@ -1,4 +1,4 @@
-### Hi there, I'm Adi!👋
+# Hi there, I'm Adi!👋
 
 ```python
 #!/usr/bin/python
@@ -22,13 +22,8 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adipoluri&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adipoluri&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
  
-</details>
-
   
 ---
 
