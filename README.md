@@ -12,7 +12,7 @@
 # -*- coding: utf-8 -*-
 
 
-class Programmer:
+class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Adi Poluri"
