@@ -26,9 +26,9 @@ class SoftwareEngineer:
     <summary>def moreInfo(self):</summary>
 
 </details>
+
 ```python
-    
-    
+   
         
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting!")
