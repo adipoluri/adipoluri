@@ -25,11 +25,14 @@ me.say_hi()
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adipoluri&count_private=true&theme=github_dark)
  
   
----
+## 🗂️ Highlight Projects
 
-### 📕 Latest Blog Posts
-
----
+<a href="https://github.com/adipoluri/Pixelov">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adipoluri&repo=pixelov&show_icons=true&theme=github_dark" />
+</a>
+<a href= "https://github.com/adipoluri/redacted">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adipoluri&repo=redacted&show_icons=true&theme=github_dark" />
+</a>
 
 ### Connect with me:
 
