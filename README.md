@@ -24,7 +24,11 @@ class SoftwareEngineer:
 ```
 <details>
     <summary>def moreInfo(self):</summary>
-
+        
+```python
+        
+```
+    
 </details>
 
 ```python
