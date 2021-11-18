@@ -37,7 +37,7 @@ me.say_hi()
         
         
 ```python
-    def moreInfo():
+    def moreInfo(self):
         aboutMe = {
             "currentFocus" : "Flutter Web App Development and Game Development",
             "languages" : ["Python", "C++", "C", "Java", "Dart", "PHP"],
@@ -49,9 +49,9 @@ me.say_hi()
                 "misc" : ["Firebase", "open-cv", "flask", "spacy", "NLTK"]
             } 
         }
-        return(aboutMe)
+        print(aboutMe)
         
-print(moreInfo())
+me.moreInfo()
 ```
         
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adipoluri&count_private=true&theme=github_dark)
