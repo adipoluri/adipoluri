@@ -5,7 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/adipoluri?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat&logo=Google-Chrome&logoColor=white&link=https://adipoluri.com/)](https://adipoluri.com/)
 
-<h4>
+<h3>
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -34,7 +34,7 @@ me = SoftwareEngineer()
 me.say_hi()
 me.moreInfo()
 ```
-</h4>
+</h3>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adipoluri&count_private=true&theme=github_dark)
  
   
