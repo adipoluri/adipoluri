@@ -1,6 +1,6 @@
 # Hi there, I'm Adi!👋
 
-[![Twitter Follow]](https://img.shields.io/twitter/follow/adipoluri?label=Follow)](https://twitter.com/intent/follow?screen_name=adipoluri)
+[![Twitter Follow](https://img.shields.io/twitter/url?style=social&url=adipoluri)](https://twitter.com/intent/follow?screen_name=adipoluri)
 [![Linkedin: anmol](https://img.shields.io/badge/-adipoluri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityapoluri/)](https://www.linkedin.com/in/adityapoluri/)
 ![GitHub followers](https://img.shields.io/github/followers/adipoluri?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://adipoluri.com/)](https://adipoluri.com/)
