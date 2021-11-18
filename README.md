@@ -16,10 +16,9 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Adi Poluri"
-        self.role = "Student & Software Engineer"
+        self.role = "Computer Vision Engineer @ DaoAI"
         self.school = "UBC"
         self.location = "Vancouver"
-        self.language_spoken = ["en_US"]
         self.ask_me_about = ["game-dev", "ai", "computer-vision","flutter-dev"]
         
     
@@ -32,13 +31,11 @@ class SoftwareEngineer:
             "currentFocus" : "Flutter Web App Development and Game Development",
             "languages" : ["Python", "C++", "C", "Java", "Dart", "PHP"],
             "technologies" : {
-                "gamedev" : {
-                    "tools" : ["Unity", "Unreal Engine 4/5", "three.js"],
-                }
-                "ml" : [
+                "gamedev" :  ["Unity", "Unreal Engine 4/5", "three.js"],
                 "mobile" : ["Flutter", "Android Development"],
-                "databases" : ["MySql", "hiveDB", "mongo"].
-                "misc" : ["Firebase", "open-cv", "flutter", "three.js"],
+                "databases" : ["MySql", "hiveDB", "mongo"],
+                "robotics/hardware" : ["pSoC Creator", "arduino"],
+                "misc" : ["Firebase", "open-cv"]
             } 
         }
     
@@ -48,6 +45,7 @@ me.say_hi()
 me.moreInfo()
 ```
 </h4>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adipoluri&count_private=true&theme=github_dark)
  
   
