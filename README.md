@@ -45,7 +45,7 @@ me.moreInfo()
                 "mobile" : ["Flutter", "Android Development"],
                 "databases" : ["MySql", "hiveDB", "mongo"],
                 "robotics/hardware" : ["pSoC Creator", "arduino"],
-                "misc" : ["Firebase", "open-cv"]
+                "misc" : ["Firebase", "open-cv", "flask", "spacy", "NLTK"]
             } 
         }
 ```
