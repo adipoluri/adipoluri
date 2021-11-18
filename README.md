@@ -31,7 +31,7 @@ me.say_hi()
 # Click below for more info !
 ```
 <details>
-    <summary><i>def moreInfo():<i></summary>
+    <summary><i>def moreInfo():</i></summary>
 <br/>
         
         
@@ -50,6 +50,7 @@ me.say_hi()
         }
         print(aboutMe)
         
+    
 me.moreInfo()
 ```
         
