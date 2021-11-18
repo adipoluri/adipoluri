@@ -1,5 +1,11 @@
 # Hi there, I'm Adi!👋
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/adipoluri?label=Follow)](https://twitter.com/intent/follow?screen_name=adipoluri)
+[![Linkedin: anmol](https://img.shields.io/badge/-adipoluri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityapoluri/)](https://www.linkedin.com/in/adityapoluri/)
+![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -36,10 +42,7 @@ me.say_hi()
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <br/>
 <br/>
