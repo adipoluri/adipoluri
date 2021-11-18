@@ -1,5 +1,26 @@
 ### Hi there, I'm Adi!👋
 
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Adi Poluri"
+        self.role = "Software Engineer"
+        self.school = "UBC"
+        self.language_spoken = ["en_US"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+        
+        
+me = SoftwareEngineer()
+me.say_hi()
+```
+
 ## I'm a Programmer, Engineer, and Student!
 
 - 🔭 I’m currently working on a 2D unity game called Pixelov!
