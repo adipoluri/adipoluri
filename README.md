@@ -4,7 +4,6 @@
 [![Linkedin: anmol](https://img.shields.io/badge/-adipoluri-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityapoluri/)](https://www.linkedin.com/in/adityapoluri/)
 ![GitHub followers](https://img.shields.io/github/followers/adipoluri?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat&logo=Google-Chrome&logoColor=white&link=https://adipoluri.com/)](https://adipoluri.com/)
-
 <h4>
     
 ```python
