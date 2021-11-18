@@ -7,7 +7,7 @@
 
 <h4>
     
-
+```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
@@ -21,9 +21,9 @@ class SoftwareEngineer:
         self.location = "Vancouver"
         self.ask_me_about = ["game-dev", "ai", "computer-vision","flutter-dev"]
         
-   ```
-    <details>
-        <summary>def moreInfo(self):</summary>
+```
+<details>
+    <summary>def moreInfo(self):</summary>
         ```python
         def moreInfo(self):
         aboutMe = {
@@ -37,9 +37,9 @@ class SoftwareEngineer:
                 "misc" : ["Firebase", "open-cv"]
             } 
         }
-        ```
-    </details>
-    ```python
+```
+</details>
+```python
     
     
         
