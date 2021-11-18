@@ -21,6 +21,15 @@ class SoftwareEngineer:
         self.location = "Vancouver"
         self.ask_me_about = ["game-dev", "ai", "computer-vision","flutter-dev"]
         
+    
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting!")
+    
+    
+me = SoftwareEngineer()
+me.say_hi()
+me.moreInfo()
+    
 ```
 <details>
     <summary><b>def moreInfo(self):</b></summary>
@@ -41,18 +50,7 @@ class SoftwareEngineer:
 ```
     
 </details>
-
-```python
-   
-        
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting!")
     
-    
-me = SoftwareEngineer()
-me.say_hi()
-me.moreInfo()
-```
 </h4>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adipoluri&count_private=true&theme=github_dark)
