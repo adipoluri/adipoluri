@@ -24,7 +24,7 @@ class SoftwareEngineer:
 ```
 <details>
     <summary>def moreInfo(self):</summary>
-        ```python
+```python
         def moreInfo(self):
         aboutMe = {
             "currentFocus" : "Flutter Web App Development and Game Development",
