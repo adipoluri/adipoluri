@@ -30,9 +30,10 @@ me = SoftwareEngineer()
 me.say_hi()
 me.moreInfo()
     
+# Click below for more info 
 ```
 <details>
-    <summary><b>def moreInfo(self):</b></summary>
+    <summary><b>----></b></summary>
         
 ```python
         def moreInfo(self):
