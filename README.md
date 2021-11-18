@@ -22,15 +22,27 @@ class SoftwareEngineer:
         self.language_spoken = ["en_US"]
         self.ask_me_about = ["game-dev", "ai", "computer-vision","flutter-dev"]
         
+    
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting!")
         
+    
     def moreInfo(self):
         aboutMe = {
             "currentFocus" : "Flutter Web App Development and Game Development",
             "languages" : ["Python", "C++", "C", "Java", "Dart", "PHP"],
-            "tools" : ["Unity", "Unreal Engine 4/5", Android Studio"],
-        
+            "technologies" : {
+                "gamedev" : {
+                    "tools" : ["Unity", "Unreal Engine 4/5", "three.js"],
+                }
+                "ml" : [
+                "mobile" : ["Flutter", "Android Development"],
+                "databases" : ["MySql", "hiveDB", "mongo"].
+                "misc" : ["Firebase", "open-cv", "flutter", "three.js"],
+            } 
+        }
+    
+    
 me = SoftwareEngineer()
 me.say_hi()
 me.moreInfo()
