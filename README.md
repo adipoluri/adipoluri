@@ -28,7 +28,6 @@ class Programmer:
     
 me = SoftwareEngineer()
 me.say_hi()
-me.moreInfo()
     
 # Click below for more info !
 ```
@@ -38,7 +37,7 @@ me.moreInfo()
         
         
 ```python
-    def moreInfo(self):
+    def moreInfo():
         aboutMe = {
             "currentFocus" : "Flutter Web App Development and Game Development",
             "languages" : ["Python", "C++", "C", "Java", "Dart", "PHP"],
@@ -48,8 +47,11 @@ me.moreInfo()
                 "databases" : ["MySql", "hiveDB", "mongo"],
                 "robotics/hardware" : ["pSoC Creator", "arduino"],
                 "misc" : ["Firebase", "open-cv", "flask", "spacy", "NLTK"]
-        } 
-    }
+            } 
+        }
+        return(aboutMe)
+        
+print(moreInfo())
 ```
         
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adipoluri&count_private=true&theme=github_dark)
