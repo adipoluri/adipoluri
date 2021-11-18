@@ -33,7 +33,7 @@ me.moreInfo()
 # Click below for more info 
 ```
 <details>
-    <summary><b>----></b></summary>
+    <summary><i>def moreInfo():<i></summary>
         
 ```python
         def moreInfo(self):
