@@ -24,20 +24,7 @@ class SoftwareEngineer:
 ```
 <details>
     <summary>def moreInfo(self):</summary>
-```python
-        def moreInfo(self):
-        aboutMe = {
-            "currentFocus" : "Flutter Web App Development and Game Development",
-            "languages" : ["Python", "C++", "C", "Java", "Dart", "PHP"],
-            "technologies" : {
-                "gamedev" :  ["Unity", "Unreal Engine 4/5", "three.js"],
-                "mobile" : ["Flutter", "Android Development"],
-                "databases" : ["MySql", "hiveDB", "mongo"],
-                "robotics/hardware" : ["pSoC Creator", "arduino"],
-                "misc" : ["Firebase", "open-cv"]
-            } 
-        }
-```
+
 </details>
 ```python
     
