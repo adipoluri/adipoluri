@@ -28,10 +28,10 @@ me.say_hi()
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/adipoluri/Pixelov">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adipoluri&repo=pixelov&show_icons=true&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adipoluri&repo=pixelov&show_icons=true&theme=github_dark&line_height=27" />
 </a>
 <a href= "https://github.com/adipoluri/redacted">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adipoluri&repo=redacted&show_icons=true&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adipoluri&repo=redacted&show_icons=true&theme=github_dark&line_height=27" />
 </a>
 
 ### Connect with me:
