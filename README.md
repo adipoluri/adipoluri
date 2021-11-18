@@ -36,7 +36,7 @@ me.moreInfo()
     <summary><i>def moreInfo():<i></summary>
         
 ```python
-        def moreInfo(self):
+    def moreInfo(self):
         aboutMe = {
             "currentFocus" : "Flutter Web App Development and Game Development",
             "languages" : ["Python", "C++", "C", "Java", "Dart", "PHP"],
@@ -46,8 +46,8 @@ me.moreInfo()
                 "databases" : ["MySql", "hiveDB", "mongo"],
                 "robotics/hardware" : ["pSoC Creator", "arduino"],
                 "misc" : ["Firebase", "open-cv", "flask", "spacy", "NLTK"]
-            } 
-        }
+        } 
+    }
 ```
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adipoluri&count_private=true&theme=github_dark)
 </details>
