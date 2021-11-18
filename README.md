@@ -34,7 +34,8 @@ me.moreInfo()
 ```
 <details>
     <summary><i>def moreInfo():<i></summary>
----       
+
+        
 ```python
     def moreInfo(self):
         aboutMe = {
