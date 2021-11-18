@@ -7,7 +7,7 @@
 
 <h4>
     
-```python
+
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
@@ -21,12 +21,11 @@ class SoftwareEngineer:
         self.location = "Vancouver"
         self.ask_me_about = ["game-dev", "ai", "computer-vision","flutter-dev"]
         
-    
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting!")
-        
-    
-    def moreInfo(self):
+   ```
+    <details>
+        <summary>def moreInfo(self):</summary>
+        ```python
+        def moreInfo(self):
         aboutMe = {
             "currentFocus" : "Flutter Web App Development and Game Development",
             "languages" : ["Python", "C++", "C", "Java", "Dart", "PHP"],
@@ -38,6 +37,14 @@ class SoftwareEngineer:
                 "misc" : ["Firebase", "open-cv"]
             } 
         }
+        ```
+    </details>
+    ```python
+    
+    
+        
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting!")
     
     
 me = SoftwareEngineer()
