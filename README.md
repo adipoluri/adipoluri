@@ -39,7 +39,7 @@ me.say_hi()
     def moreInfo(self):
         aboutMe = {
             "currentFocus" : "Flutter Web App Development and Game Development",
-            "languages" : ["Python", "C++", "C", "Java", "Dart", "PHP"],
+            "languages" : ["Python", "C++", "C", "Java", "Dart"],
             "technologies" : {
                 "gamedev" :  ["Unity", "Unreal Engine 4/5", "three.js"],
                 "mobile" : ["Flutter", "Android Development"],
