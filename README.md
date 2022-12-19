@@ -1,7 +1,7 @@
 # Hi there, I'm Adi!👋
 <h3> 
     
-```python
+```python3
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
