@@ -9,20 +9,24 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Adi Poluri"
-        self.role = "Computer Vision Engineer @ DaoAI"
         self.school = "UBC"
         self.location = "Vancouver"
-        self.ask_me_about = ["game-dev", "ai", "computer-vision","flutter-dev"]
-        
-        def moreInfo(self):
+        self.role = {
+            "incoming": "TBD",
+            "previous": "Computer Vision Engineer @ DaoAI"
+        }
+        self.ask_me_about = ["game-dev", "ai", "computer-vision","three-js"]
+       
+    def moreInfo(self):
         aboutMe = {
             "currentFocus" : Web App Development and Game Development using Three.js!",
-            "languages" : ["Python", "C++", "C", "Java", "Dart","Javascript"],
+            "languages" : ["Python", "C++", "C", "C#", "Java", "Dart","Javascript", "TypeScript", "Julia"],
             "technologies" : {
+                "web" : ["React", "JavaScript", "ThreeJS", "NodeJS", "Flutter", "HTML/CSS", "Socket.io"]
                 "gamedev" :  ["Unity", "Unreal Engine 4/5", "three.js"],
                 "mobile" : ["Flutter", "Android Development"],
-                "databases" : ["MySql", "hiveDB", "mongo"],
-                "robotics/hardware" : ["pSoC Creator", "arduino"],
+                "databases" : ["MySQL", "hiveDB", "mongo"],
+                "robotics/hardware" : ["pSoC Creator", "arduino", "BLE"],
                 "misc" : ["Firebase", "open-cv", "flask", "spacy", "NLTK"]
             } 
         }
