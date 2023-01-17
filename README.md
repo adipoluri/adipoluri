@@ -14,23 +14,7 @@ class SoftwareEngineer:
         self.location = "Vancouver"
         self.ask_me_about = ["game-dev", "ai", "computer-vision","flutter-dev"]
         
-    
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting!")
-    
-    
-me = SoftwareEngineer()
-me.say_hi()
-    
-# Click below for more info !
-```
-<details>
-    <summary><i>def moreInfo():</i></summary>
-<br/>
-        
-        
-```python
-    def moreInfo(self):
+        def moreInfo(self):
         aboutMe = {
             "currentFocus" : Web App Development and Game Development using Three.js!",
             "languages" : ["Python", "C++", "C", "Java", "Dart","Javascript"],
@@ -45,7 +29,14 @@ me.say_hi()
         print(aboutMe)
         
     
-me.moreInfo()
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting!")
+    
+    
+me = SoftwareEngineer()
+me.say_hi()
+    me.moreInfo()
+
 ```
         
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adipoluri&count_private=true&theme=github_dark)
