@@ -1,6 +1,5 @@
 # Hi there, I'm Adi!👋
-<h3> 
-    
+
 ```javascript
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -51,8 +50,7 @@ me.moreInfo()
         
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adipoluri&count_private=true&theme=github_dark)
 </details>
-    
-</h3>
+
 
   
 ## 🗂️ Highlight Projects
