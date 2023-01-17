@@ -19,7 +19,7 @@ class SoftwareEngineer:
        
     def moreInfo(self):
         aboutMe = {
-            "currentFocus" : Web App Development and Game Development using Three.js!",
+            "currentFocus" : Building a Space Flight Simulator in the Destiny 2 Universe",
             "languages" : ["Python", "C++", "C", "C#", "Java", "Dart","Javascript", "TypeScript", "Julia"],
             "technologies" : {
                 "web" : ["React", "JavaScript", "ThreeJS", "NodeJS", "Flutter", "HTML/CSS", "Socket.io"],
