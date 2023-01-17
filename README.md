@@ -22,7 +22,7 @@ class SoftwareEngineer:
             "currentFocus" : Web App Development and Game Development using Three.js!",
             "languages" : ["Python", "C++", "C", "C#", "Java", "Dart","Javascript", "TypeScript", "Julia"],
             "technologies" : {
-                "web" : ["React", "JavaScript", "ThreeJS", "NodeJS", "Flutter", "HTML/CSS", "Socket.io"]
+                "web" : ["React", "JavaScript", "ThreeJS", "NodeJS", "Flutter", "HTML/CSS", "Socket.io"],
                 "gamedev" :  ["Unity", "Unreal Engine 4/5", "three.js"],
                 "mobile" : ["Flutter", "Android Development"],
                 "databases" : ["MySQL", "hiveDB", "mongo"],
