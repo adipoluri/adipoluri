@@ -1,6 +1,6 @@
 # Hi there, I'm Adi!👋
 
-```javascript
+```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
