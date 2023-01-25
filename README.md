@@ -51,10 +51,10 @@ me.moreInfo()
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/adipoluri/TidBit">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=adipoluri&repo=tidbit&show_icons=true&theme=github_dark&line_height=27" />
+  <img align="center" src="https://github-readme.five.vercel.app/api/pin/?username=adipoluri&repo=tidbit&show_icons=true&theme=github_dark&line_height=27" />
 </a>
 <a href= "https://github.com/adipoluri/redacted">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=adipoluri&repo=redacted&show_icons=true&theme=github_dark&line_height=28" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adipoluri&repo=redacted&show_icons=true&theme=github_dark&line_height=28" />
 </a>
 
 
