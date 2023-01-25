@@ -43,7 +43,7 @@ me.moreInfo()
 
 ```
         
-![Anurag's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=adipoluri&count_private=true&theme=github_dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adipoluri&count_private=true&theme=github_dark)
 </details>
 
 
