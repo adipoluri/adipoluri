@@ -44,6 +44,8 @@ me.moreInfo()
 ```
         
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adipoluri&count_private=true&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adipoluri&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </details>
 
 
