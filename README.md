@@ -52,11 +52,11 @@ me.moreInfo()
 ## 🗂️ Highlight Projects
 
 <a href= "https://github.com/adipoluri/tidbit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adipoluri&repo=tidbit&show_icons=true&theme=github_dark&line_height=30" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adipoluri&repo=tidbit&show_icons=true&theme=github_dark&line_height=33" />
 </a>
 <a href= "https://github.com/adipoluri/redacted">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adipoluri&repo=redacted&show_icons=true&theme=github_dark&line_height=50" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adipoluri&repo=redacted&show_icons=true&theme=github_dark&line_height=30" />
 </a>
 <a href= "https://github.com/TheTripleA2023/thecouncil">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheTripleA2023&repo=thecouncil&show_icons=true&theme=github_dark&line_height=30" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheTripleA2023&repo=thecouncil&show_icons=true&theme=github_dark&line_height=33" />
 </a>
