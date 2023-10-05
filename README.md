@@ -19,15 +19,15 @@ class SoftwareEngineer:
        
     def moreInfo(self):
         aboutMe = {
-            "currentFocus" : Building a Space Flight Simulator in the Destiny 2 Universe",
+            "currentFocus" : "Building a Space Flight Simulator in the Destiny 2 Universe",
             "languages" : ["Python", "C++", "C", "C#", "Java", "Dart","Javascript", "TypeScript", "Julia"],
             "technologies" : {
-                "web" : ["React", "JavaScript", "ThreeJS", "NodeJS", "Flutter", "HTML/CSS", "Socket.io"],
-                "gamedev" :  ["Unity", "Unreal Engine 4/5", "three.js"],
+                "web" : ["React", "JavaScript", "ThreeJS", "NodeJS", "NextJS", "Flutter", "HTML/CSS", "Socket.io"],
+                "gamedev" :  ["Unity", "Unreal Engine", "three.js", "Godot"],
                 "mobile" : ["Flutter", "Android Development"],
                 "databases" : ["MySQL", "hiveDB", "mongo"],
                 "robotics/hardware" : ["pSoC Creator", "arduino", "BLE"],
-                "misc" : ["Firebase", "open-cv", "flask", "spacy", "NLTK"]
+                "misc" : ["Firebase", "supabase", "open-cv", "flask", "spacy", "NLTK"]
             } 
         }
         print(aboutMe)
