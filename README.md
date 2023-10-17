@@ -46,7 +46,7 @@ me.moreInfo()
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=adipoluri&count_private=true&theme=github_dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adipoluri&theme=github_dark&layout=compact&langs_count=10&card_width=320&exclude_repo=redacted,EscapefromPixelov" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adipoluri&theme=github_dark&layout=compact&langs_count=10&card_width=320&exclude_repo=,EscapefromPixelov" />
 </a>
 </details>
 
