@@ -11,16 +11,13 @@ class SoftwareEngineer:
         self.name = "Adi Poluri"
         self.school = "UBC"
         self.location = "Vancouver"
-        self.role = {
-            "incoming": "TBD",
-            "previous": "Computer Vision Engineer @ DaoAI"
-        }
-        self.ask_me_about = ["game-dev", "ai", "computer-vision","three-js"]
+        self.role = "SWE @ EA Sports"
+        self.ask_me_about = ["game-dev", "ai/ml", "computer-vision", "agentic programming"]
        
     def moreInfo(self):
         aboutMe = {
-            "currentFocus" : "Building a Space Flight Simulator in the Destiny 2 Universe",
-            "languages" : ["Python", "C++", "C", "C#", "Java", "Dart","Javascript", "TypeScript", "Julia"],
+            "currentFocus" : "Building a wizard chess game :)",
+            "languages" : ["Python", "C++", "C", "C#", "Java","Javascript", "TypeScript", "Julia"],
             "technologies" : {
                 "web" : ["React", "JavaScript", "ThreeJS", "NodeJS", "NextJS", "Flutter", "HTML/CSS", "Socket.io"],
                 "gamedev" :  ["Unity", "Unreal Engine", "three.js", "Godot"],
